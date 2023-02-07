@@ -1,5 +1,3 @@
-
-
 $("style").last().append(`
 #users .uzr.muh1 .fitimg.u-pic {
   border-radius: 100px !important;
