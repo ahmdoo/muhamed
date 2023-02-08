@@ -3,7 +3,7 @@ $("style").last().append(`
   border-radius: 100px !important;
   margin-top: 2px !important;
   height: 45px !important;
-  margin-left: -3px !important;
+  margin-left: 1px !important;
   width: 45px !important;
 }
 #users .uzr.sad .d-flex.dots {
@@ -58,7 +58,7 @@ z-index: 0 !important;
 }
 #users .uzr.sad .s3d_star {
 width: 66px;
-margin-top: -2px;
+margin-top: -8px;
 height: 66px;
 margin-left: -5px;
 }
