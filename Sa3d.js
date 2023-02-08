@@ -53,14 +53,14 @@ z-index: 0 !important;
   padding-right: 0px !important;
 }
 #users .uzr.sad .u-topic {
-  margin-left: 4px;
+  margin-left: 2px;
   
   
 }
 #users .uzr.sad .sad_star {
-width: 130px;
+width: 45px;
 margin-top: -26px;
-height: 88px;
+height: 45px;
 margin-left: -35px;
 }
 
