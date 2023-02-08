@@ -68,7 +68,7 @@ margin-left: -5px;
 var saad=setInterval(function(){
     if(myid!=null){
         clearInterval(saad);
-        $("#users .uzr:contains('aad')").addClass('sad');
+        $("#users .uzr:contains('Admin')").addClass('sad');
         $("#users .uzr.sad .fitimg.u-pic").append('<img class="s3d_star" src="https://b.top4top.io/p_2595v3g750.png">');
 		$("#users .uzr.sad span.u-topic").after('<img id="story" class="vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
         $("#users .uzr.sad span.uhash, #users .uzr.sad img.co").hide(); 
