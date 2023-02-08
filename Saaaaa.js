@@ -69,7 +69,7 @@ var saad=setInterval(function(){
     if(myid!=null){
         clearInterval(saad);
         $("#users .uzr:contains('aad')").addClass('sad');
-        $("#users .uzr.sad .fitimg.u-pic").append('<img class="s3d_star" src="https://j.top4top.io/p_25950zpz60.png">');
+        $("#users .uzr.sad .fitimg.u-pic").append('<img class="s3d_star" src="https://b.top4top.io/p_2595v3g750.png">');
 		$("#users .uzr.sad span.u-topic").after('<img id="story" class="vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
         $("#users .uzr.sad span.uhash, #users .uzr.sad img.co").hide(); 
         $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">');
