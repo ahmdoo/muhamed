@@ -54,11 +54,11 @@ z-index: 0 !important;
 }
 #users .uzr.sad .u-topic {
   margin-left: 4px;
-background-image: url(https://i.top4top.io/p_259552fgu0.gif);
+background-image: url(https://j.top4top.io/p_25958jf2q0.gif);
   
 }
 #users .uzr.sad .sad_star {
-width: 88px;
+width: 130px;
 margin-top: -6px;
 height: 88px;
 margin-left: -5px;
