@@ -55,13 +55,14 @@ z-index: 0 !important;
 #users .uzr.sad .u-topic {
   margin-left: 4px;
   background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
- 
+  color: transparent !important;
+  background-size: 90% 100%;
 }
 #users .uzr.sad .s3d_star {
 width: 66px;
 margin-top: -15px;
 height: 66px;
-margin-left: -7px;
+margin-left: -8px;
 }
 
 
