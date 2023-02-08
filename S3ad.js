@@ -53,13 +53,14 @@ z-index: 0 !important;
   padding-right: 0px !important;
 }
 #users .uzr.sad .u-topic {
-  margin-left: 10px;
-  background-image: url(https://up6.cc/2023/02/167583319574361.gif);
+  margin-left: 4px;
+background-image: url(https://i.top4top.io/p_259552fgu0.gif);
+  
 }
 #users .uzr.sad .sad_star {
-width: 66px;
+width: 88px;
 margin-top: -6px;
-height: 66px;
+height: 88px;
 margin-left: -5px;
 }
 
@@ -78,7 +79,7 @@ var saad=setInterval(function(){
         $('#movon1').addClass('sad');
         $("#movon1").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
         $("#movon1").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');  
-        $("#movon1").append('<iframe id="ifr_mov2" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/_LF2CC7X13I" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+        $("#movon1").append('<iframe id="ifr_mov2" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/_LTjhKM8tvs" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
         $("#ifr_mov2").show(function(){
         $("#upro").modal("hide");
     } ); 
