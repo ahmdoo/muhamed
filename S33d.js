@@ -54,7 +54,7 @@ z-index: 0 !important;
 }
 #users .uzr.sad .u-topic {
   margin-left: 4px;
-background-image:linear-gradient(225deg,#fff 0%,#000 29%,#fff 67%,#000 100%);
+  background-image:linear-gradient(225deg,#fff 0%,#000 29%,#fff 67%,#000 100%);
   
 }
 #users .uzr.sad .sad_star {
