@@ -54,6 +54,10 @@ z-index: 0 !important;
 }
 #users .uzr.sad .u-topic {
   margin-left: 4px;
+  -webkit-background-clip: text;
+  padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
   background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
   color: transparent !important;
   background-size: 90% 100%;
