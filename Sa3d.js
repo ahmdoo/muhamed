@@ -2,9 +2,9 @@ $("style").last().append(`
 #users .uzr.sad .fitimg.u-pic {
   border-radius: 100px !important;
   margin-top: 2px !important;
-  height: 55px !important;
-  margin-left: -5px !important;
-  width: 55px;
+  height: 35px !important;
+  margin-left: 4px !important;
+  width: 35px;
 }
 #users .uzr.sad .d-flex.dots {
   margin-top: 7px !important;
