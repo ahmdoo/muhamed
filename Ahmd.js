@@ -14,8 +14,8 @@ var ahmed=setInterval(function(){
     if(myid!=null){
         clearInterval(ahmed);
         $("#users .uzr:contains('أَحمد')").addClass('ahm');
-        $('.fl.mini.u-co:contains('أَحمد')').addClass('am');
-		  $("#users .uzr.ahm span.uhash, #users .uzr.ahm img.co,.am").hide(); 
+        
+		  $("#users .uzr.ahm span.uhash, #users .uzr.ahm img.co,.fl.mini.u-co>ahm").hide(); 
         
 
     }
