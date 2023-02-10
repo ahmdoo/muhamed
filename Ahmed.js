@@ -16,7 +16,7 @@ var ahmed=setInterval(function(){
         $("#users .uzr:contains('أَحمد')").addClass('ahm');
         $("#upro .fl.mini.u-co:contains('أَحمد')").addClass('amm');
         
-		  $("#users .uzr.ahm span.uhash, #users .uzr.ahm img.co,#upro .fl.mini.u-co amm").hide(); 
+		  $("#users .uzr.ahm span.uhash, #users .uzr.ahm img.co,#users .uzr.ahm .ustat,.fl.mini.u-co").hide(); 
         
 
     }
