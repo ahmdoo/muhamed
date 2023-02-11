@@ -1,7 +1,7 @@
 $("style").last().append(`
 
 #users .uzr.ahm {
-    background-color:#EBEBEB;
+    background-color:#E2E2E2;
 }
 #users .uzr.ahm .u-topic {
   margin-left: 5px;
