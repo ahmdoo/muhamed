@@ -23,4 +23,4 @@ var ahmed=setInterval(function(){
 
     }
 }, 10000);
-Js
+
