@@ -1,5 +1,7 @@
 $("style").last().append(`
-
+#users .uzr.ahm .fitimg.u-pic {
+  border-radius: 20px 0px 20px 0px!important;
+}
 #users .uzr.ahm {
     background-color:#E2E2E2;
 }
