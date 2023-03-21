@@ -76,8 +76,7 @@ var muhamed=setInterval(function(){
         $("#users .uzr:contains('Admin')").addClass('muh1');
         $("#users .uzr.muh1 .c-flex.fr").append('<img class="My_star1" src="https://f.top4top.io/p_2593paryo0.gif">');
 	
-	$("#users .uzr.muh1 .c-flex.fr").after('<div id="muhameed_style" class="label label-primary Ahmed" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 0px 0px 50px 50px;padding: 0px;background-color: #EDEDED!important;color:#000;" href="https://fhh0.com/">وقتٍ مضى لإيهمك، انتهى مع ناسه</div>');
-        
+	
     
         $("#users .uzr.muh1 span.uhash, #users .uzr.muh1 img.co").hide(); 
 
