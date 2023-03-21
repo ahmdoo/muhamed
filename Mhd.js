@@ -18,7 +18,7 @@ $("style").last().append(`
   padding: 1px !important;
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
-  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+  background-image: url(https://i.top4top.io/p_26369q1yt0.jpg);
   color: transparent !important;
   background-size: 90% 100%;
 }
@@ -74,7 +74,7 @@ $("style").last().append(`
 var me_user1=setInterval(function(){
     if(myid!=null){
         clearInterval(me_user1);
-        $("#users .uzr:contains('𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳 ,,')").addClass('stl1');
+        $("#users .uzr:contains('Admin')").addClass('stl1');
         $("#users .uzr.stl1 .c-flex.fr").append('<img class="My_star1" src="">');
 	
 	
@@ -86,7 +86,7 @@ var me_user1=setInterval(function(){
         
         
         
-        $("div#users .uzr:contains('𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳 ,,') .My_vedio1").click(function(){
+        $("div#users .uzr:contains('Admin') .My_vedio1").click(function(){
         $("#movon1").show();
         
         $('#movon1').addClass('stl1');
