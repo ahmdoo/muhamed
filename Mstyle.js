@@ -47,7 +47,7 @@ $("style").last().append(`
   border-radius: 20px;
   background-size: cover;
   border: 1px solid #fff;
-  background-image: url("https://d.top4top.io/p_2593wv1s80.png");
+  background-image: url("https://i.top4top.io/p_26369q1yt0.jpg");
       background-size: cover;
 }
 #users .uzr.muh1 .c-flex.fr {
@@ -73,7 +73,7 @@ $("style").last().append(`
 var muhamed=setInterval(function(){
     if(myid!=null){
         clearInterval(muhamed);
-        $("#users .uzr:contains('محمد')").addClass('muh1');
+        $("#users .uzr:contains('Admin')").addClass('muh1');
         $("#users .uzr.muh1 .c-flex.fr").append('<img class="My_star1" src="https://f.top4top.io/p_2593paryo0.gif">');
 	
 	$("#users .uzr.muh1 .c-flex.fr").after('<div id="muhameed_style" class="label label-primary Ahmed" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 0px 0px 50px 50px;padding: 0px;background-color: #EDEDED!important;color:#000;" href="https://fhh0.com/">وقتٍ مضى لإيهمك، انتهى مع ناسه</div>');
@@ -86,7 +86,7 @@ var muhamed=setInterval(function(){
         
         
         
-        $("div#users .uzr:contains('محمد') .My_vedio1").click(function(){
+        $("div#users .uzr:contains('Admin') .My_vedio1").click(function(){
         $("#movon1").show();
         
         $('#movon1').addClass('muh1');
