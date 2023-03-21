@@ -73,7 +73,7 @@ $("style").last().append(`
 var muhamed=setInterval(function(){
     if(myid!=null){
         clearInterval(muhamed);
-        $("#users .uzr:contains('Admin')").addClass('muh1');
+        $("#users .uzr:contains('مُحمـد ..')").addClass('muh1');
         $("#users .uzr.muh1 .c-flex.fr").append('<img class="My_star1" src="https://f.top4top.io/p_2593paryo0.gif">');
 	
 	
@@ -85,7 +85,7 @@ var muhamed=setInterval(function(){
         
         
         
-        $("div#users .uzr:contains('Admin') .My_vedio1").click(function(){
+        $("div#users .uzr:contains('مُحمـد ..') .My_vedio1").click(function(){
         $("#movon1").show();
         
         $('#movon1').addClass('muh1');
