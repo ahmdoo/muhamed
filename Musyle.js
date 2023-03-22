@@ -61,12 +61,6 @@ $("style").last().append(`
 #users .uzr.muh1 .u-topic {
   margin-left: 5px
 }
-#users .uzr.muh1 .My_star1 {
-  width: 64px;
-  margin-top: -58px;
-  margin-left: 9px;
-  height: 60px;
-}
 
 
 `);
@@ -74,9 +68,7 @@ var muhamed=setInterval(function(){
     if(myid!=null){
         clearInterval(muhamed);
         $("#users .uzr:contains('مُحمـد ..')").addClass('muh1');
-        $("#users .uzr.muh1 .c-flex.fr").append('<img class="My_star1" src="https://f.top4top.io/p_2593paryo0.gif">');
-	
-	
+        
     
         $("#users .uzr.muh1 span.uhash, #users .uzr.muh1 img.co").hide(); 
 
